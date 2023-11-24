@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laksmitawidya
 - 👀 I’m interested in visuals
-- 🌱 I’m interested in front end & text mining/NLP
+- 🌱 I’m currently learning front end engineering & text mining/NLP
 - 📫 How to reach me mithawid@gmail.com
 
 <!---
