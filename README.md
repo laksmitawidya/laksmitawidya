@@ -2,9 +2,9 @@
 - 👀 I’m interested in visuals
 - 🌱 I’m a front end Engineer
 - 💻 Skills:
-  ✔️Programming Languages: JavaScript(ES2015+), TypeScript, HTML, CSS, SASS
-  ✔️ Libraries and Frameworks: React, Remix, Astro, Express, React Native, Electron, Zod, Zustand, Tailwind, AntdDesign, ExpressJS
-  ✔️ Testing Libraries: Mock Service Worker, React Testing Library, Jest
+  - ✔️*Programming Languages*: JavaScript(ES2015+), TypeScript, HTML, CSS, SASS
+  - ✔️ *Libraries and Frameworks*: React, Remix, Astro, Express, React Native, Electron, Zod, Zustand, Tailwind, AntdDesign, ExpressJS
+  - ✔️ *Testing Libraries*: Mock Service Worker, React Testing Library, Jest
 - 📫 How to reach me mithawid@gmail.com
 
 <!---
